@@ -1,2 +1,3 @@
 # Hola-gente
 Mi primer repositorio
+Con la premisa de introducirse al mundo de la programacion...
